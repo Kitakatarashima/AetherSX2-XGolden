@@ -14,7 +14,7 @@ Modifikasi dari AetherSX2, emulator PlayStation 2 untuk Android dengan optimasi 
 - support cheat langsung di apk nya 
 
 ## 📱 Cara Instalasi
-1. Unduh file APK dari [Releases](https://github.com/USERNAME/AetherSX2-XGolden/releases).
+1. Unduh file APK dari [Releases](https://github.com/Kitakatarashima/AetherSX2-XGolden/releases).
 2. Aktifkan "Install dari sumber tidak dikenal" di Android kamu.
 3. Buka file APK dan install seperti biasa.
 4. Jalankan aplikasi dan nikmati!
